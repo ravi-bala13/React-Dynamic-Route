@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "watch",
+            "price": 2000,
+            "img": "https://media.istockphoto.com/photos/military-style-watch-picture-id650233226?b=1&k=20&m=650233226&s=170667a&w=0&h=ULJQeLclxrD1-6DChtg-OCnXU6reWzJwxmUWRrdSS-8="
+        },
+        {
+            "id": 2,
+            "name": "Tv",
+            "price": 20500,
+            "img": "https://images.indianexpress.com/2019/10/Mi-TV_BIG_LEAD.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Laptop",
+            "price": 25000,
+            "img": "https://wallpapercave.com/wp/wp3169235.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Computer",
+            "price": 19000,
+            "img": "https://img-16.ccm2.net/7o9DzFRMagL2gkrNG-3ZyghTIRo=/500x/01af372a761040aaa349df7e99cc2518/ccm-faq/niclas-illg-gyRa86ExKTw-unsplash.jpg"
+        }
+
+    ]
+}
+
+
+
